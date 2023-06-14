@@ -7,7 +7,7 @@ I am Front End developer.
 - 🌍 I'm based in Georgia , Tbilisi
 - 🤝 I'm open to collaborating on interesting projects as a developer
 - 📫 How to reach me: [gogaladzemariam8@gmail.com](mailto:gogaladzemariam8@gmail.com)
-- 🖥️  See my portfolio at [here](example@gmail.com)
+- 🖥️  See my portfolio at [Porfolio](example@gmail.com)
 
 
 ## Skills
