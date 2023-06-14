@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-- 🌍 I'm based in Georgia , Tbilisi
+- 🌍 I'm based in Georgia , Tbilisi  [Location](https://www.google.com/maps/place/Tbilisi,+Georgia) 
 - 🤝 I'm open to collaborating on interesting projects as a developer
 - 📫 How to reach me: [gogaladzemariam8@gmail.com](mailto:gogaladzemariam8@gmail.com)
 - 🖥️  See my portfolio at [Porfolio](example@gmail.com)
